@@ -1,2 +1,2 @@
 # ProjectBISHIE
-My 1st Bishie App ^D^
+My Bishie App ^D^
